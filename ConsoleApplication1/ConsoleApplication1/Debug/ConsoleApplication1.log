@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\thund\Desktop\Учеба\ООП\7 лаба\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(142,14): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\thund\Desktop\Учеба\ООП\7 лаба\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(143,14): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\thund\Desktop\Учеба\ООП\7 лаба\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(144,14): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\thund\Desktop\Учеба\ООП\7 лаба\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(145,14): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\thund\Desktop\Учеба\ООП\7 лаба\ConsoleApplication1\Debug\ConsoleApplication1.exe
